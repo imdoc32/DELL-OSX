@@ -1,0 +1,2 @@
+# DELL-OSX
+Dell Hackintosh
