@@ -7,4 +7,6 @@ Everything is Working even audio, USB3, bluetooth and wifi.
 
 You don't have to change the wifi card. Intlwm and Heliport make it works
 
+DON'T FORGET TO GENERATE THE SERIALS IN SMBIOS PART!!
+
 Enjoy!
