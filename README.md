@@ -1,2 +1,2 @@
-# DELL-OSX
-Dell Hackintosh
+# DELL 3080MFF-OSX
+Works with Sequoia, Sonoma, ...
