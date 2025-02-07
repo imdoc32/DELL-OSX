@@ -1,7 +1,7 @@
 Hi everyone,
 
 
-I share you my EFI folder for MAC OS Sonoma and Sequoia.
+I share you my EFI folder for MAC OS Sonoma and Sequoia. Opencore 1.0.3
 
 Everything is Working even audio, USB3, Intel bluetooth and wifi (Only Sonoma).
 
